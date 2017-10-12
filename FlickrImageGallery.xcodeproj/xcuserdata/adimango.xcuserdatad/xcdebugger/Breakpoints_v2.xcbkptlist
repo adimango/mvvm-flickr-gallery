@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            scope = "0"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlickrImageGallery/GalleryViewController.swift"
+            timestampString = "529489912.982858"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "displayMediaViewModel(flickrMediaViewModel:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlickrImageGallery/GalleryViewModel.swift"
+            timestampString = "529451852.126539"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "loadMedia()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlickrImageGalleryTests/FlickrAPITests.swift"
+            timestampString = "529489912.983717"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "FlickrAPITests"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlickrImageGalleryTests.FlickrAPITests.flickrAPI.getter : Swift.ImplicitlyUnwrappedOptional&lt;FlickrImageGallery.FlickrAPI&gt;"
+                  moduleName = "FlickrImageGalleryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adimango/Documents/development/interview/FlickrImageGallery/FlickrImageGalleryTests/FlickrAPITests.swift"
+                  timestampString = "529488105.357643"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "105">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlickrImageGalleryTests.FlickrAPITests.flickrAPI.setter : Swift.ImplicitlyUnwrappedOptional&lt;FlickrImageGallery.FlickrAPI&gt;"
+                  moduleName = "FlickrImageGalleryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adimango/Documents/development/interview/FlickrImageGallery/FlickrImageGalleryTests/FlickrAPITests.swift"
+                  timestampString = "529488105.367366"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "110">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlickrImageGalleryTests.FlickrAPITests.init(invocation: Swift.Optional&lt;__ObjC.NSInvocation&gt;) -&gt; FlickrImageGalleryTests.FlickrAPITests"
+                  moduleName = "FlickrImageGalleryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adimango/Documents/development/interview/FlickrImageGallery/FlickrImageGalleryTests/FlickrAPITests.swift"
+                  timestampString = "529488105.373133"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "31">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlickrImageGalleryTests.FlickrAPITests.init(selector: ObjectiveC.Selector) -&gt; FlickrImageGalleryTests.FlickrAPITests"
+                  moduleName = "FlickrImageGalleryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adimango/Documents/development/interview/FlickrImageGallery/FlickrImageGalleryTests/FlickrAPITests.swift"
+                  timestampString = "529488105.391248"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlickrImageGalleryTests.FlickrAPITests.init() -&gt; FlickrImageGalleryTests.FlickrAPITests"
+                  moduleName = "FlickrImageGalleryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adimango/Documents/development/interview/FlickrImageGallery/FlickrImageGalleryTests/FlickrAPITests.swift"
+                  timestampString = "529488105.41229"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
